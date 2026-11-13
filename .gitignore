@@ -1,0 +1,14 @@
+
+*.venv
+venv/
+*.venv/
+
+*.jpg
+*.png
+
+
+*.mp4
+
+*.pt
+
+/images
