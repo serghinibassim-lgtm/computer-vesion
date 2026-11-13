@@ -12,3 +12,5 @@ venv/
 *.pt
 
 /images
+
+*.pdf 
